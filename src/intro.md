@@ -8,7 +8,7 @@ Currently this guide will not describe the Calypso build tool and command-line i
 
 Calypso code will be written in code blocks like this:
 
-```calypso
+```cal
 fn main() {
     println("Hello, world!")
 }

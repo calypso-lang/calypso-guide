@@ -15,7 +15,7 @@ create-missing = true
 [output.html]
 mathjax-support = true
 curly-quotes = true
-git-repository-url = "https://github.com/calypso-lang/guide"
+git-repository-url = "https://github.com/calypso-lang/calypso-guide"
 additional-css = ["src/styles.css"]
 theme = "src/theme"
 

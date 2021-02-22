@@ -22,7 +22,7 @@ Calypso requires you to define a main function when you're not running a program
 executed at the beginning of the program. You can define a main function like this:
 
 ```cal
-fn main() {
+fn main() ->
     println("Hello, world!");
-}
+end
 ```

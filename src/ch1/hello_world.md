@@ -15,7 +15,7 @@ To do this, you type the name of the function, followed by an opening parenthese
 Open the REPL and run this:
 
 ```cal
-println("Hello, world!");
+println("Hello, world!")
 ```
 
 Calypso requires you to define a main function when you're not running a program in the REPL. This function will always be
@@ -23,6 +23,6 @@ executed at the beginning of the program. You can define a main function like th
 
 ```cal
 fn main() ->
-    println("Hello, world!");
+    println("Hello, world!")
 end
 ```

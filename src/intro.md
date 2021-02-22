@@ -9,9 +9,9 @@ Currently this guide will not describe the Calypso build tool and command-line i
 Calypso code will be written in code blocks like this:
 
 ```cal
-fn main() {
+fn main() ->
     println("Hello, world!")
-}
+end
 ```
 
 Things to look out for or further explanations of things may be provided in notes like this:
